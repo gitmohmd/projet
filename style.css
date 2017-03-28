@@ -1,0 +1,56 @@
+header {
+  width: auto;
+  height: 100px;
+  background-color: powderblue;
+  text-align: center;
+  border-bottom: blue solid 5px;
+  padding-top: 20px;
+}
+header:after{
+
+}
+
+h1 { text-align: center;
+
+}
+icon-value {
+  content : "\f0ae";
+  text-align: center;
+  color: blue;
+}
+head{
+}
+.container {
+  width: 100%;
+  margin-top: 30px;
+  height: 460px;
+  background-color: skyblue;
+}
+h2 {
+  padding-left: 4px;
+  padding-top: 20px;
+  text-decoration: underline;
+}
+li {
+  padding: 10px;
+}
+ol {
+  width: 295px;
+  height: 240px;
+  background-color: pink;
+margin-left: 10px;
+}
+.element {
+  width: 290px;
+  height: 290px;
+  background-color: blue;
+  margin: 40px;
+  display: inline-block;
+  margin-right: 30px;
+  padding-right: 60px;
+  margin-bottom: 90px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  vertical-align: top;
+  box-shadow: 7px 7px;
+}
